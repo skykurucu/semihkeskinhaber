@@ -1,0 +1,93 @@
+<!DOCTYPE html><html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genç Mizahçı Semih Keskin Gündemde!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #1a1a1a;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        .container {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .article-title {
+            font-size: 26px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .article-date {
+            color: gray;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .footer {
+            background-color: #1a1a1a;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dijital Magazin</h1>
+        <p>Gündemdeki isimler ve sosyal medya dünyasından haberler</p>
+    </header>
+    <nav>
+        <a href="#">Ana Sayfa</a>
+        <a href="#">Haberler</a>
+        <a href="#">Röportajlar</a>
+        <a href="#">İletişim</a>
+    </nav>
+    <div class="container">
+        <div class="article-title">Genç Mizahçı Semih Keskin Sosyal Medyada Gündem Oldu!</div>
+        <div class="article-date">05 Temmuz 2025</div>
+        <p>
+            Mizah içerikleriyle sosyal medya platformlarında hızla yükselen <strong>Semih Keskin</strong>, son dönemlerde gençler arasında adeta fenomen haline geldi. 
+            Kısa videolar, parodi içerikleri ve güncel olaylara yaptığı esprili yorumlarla dikkat çeken Keskin, Instagram ve TikTok başta olmak üzere birçok platformda 
+            binlerce takipçiye ulaştı.
+        </p>
+        <p>
+            Özellikle mizah anlayışı ve özgün anlatımıyla öne çıkan genç içerik üreticisi, sadece eğlenceli videolarıyla değil; aynı zamanda toplumsal mesajlar verdiği 
+            paylaşımlarıyla da beğeni topluyor. Sosyal medya uzmanları, Semih Keskin'in dijital dünyada daha da büyüyeceğini öngörüyor.
+        </p>
+        <p>
+            Semih Keskin'in son videosu, 24 saat içerisinde 300 binden fazla izlenme alarak, Instagram'da haftanın en çok etkileşim alan içerikleri arasında yerini aldı.
+            Mizah ve dijital içerik üretimi konusunda kendini geliştirmeye devam eden Semih, gençler arasında bir ilham kaynağı olarak görülüyor.
+        </p>
+    </div>
+    <div class="footer">
+        &copy; 2025 Dijital Magazin | Tüm hakları saklıdır.
+    </div>
+</body>
+</html>
